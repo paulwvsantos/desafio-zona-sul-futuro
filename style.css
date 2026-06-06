@@ -28,7 +28,7 @@ img {
 }
 
 section {
-background-color: rgba(33, 243, 121, 0.301);
+background-color: rgba(16, 241, 110, 0.301);
 border-radius: 10px;
 padding: 24px;
 margin-bottom: 24px;
@@ -50,6 +50,6 @@ font-style: italic;
 footer {
 text-align: center;
 padding: 20px;
-color: #0b5eca;;
+color: #0b56b8;;
 font-size: 1.0em;
 }
